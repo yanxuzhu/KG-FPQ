@@ -11,3 +11,12 @@ Recent studies have demonstrated that large language models (LLMs) are susceptib
 <p align="center">
   <img src="images/example.png" alt="An example of a FPQ." width="400">
 </p>
+
+## Construction Pipeline
+We propose an automated and scalable pipeline combining KGs and GPTs for constructing FPQ datasets, by editing true triplets into false triplets and utilizing GPTs to generate FPQs.
+<p align="center">
+  <img src="images/data constructing.png" alt="Construction Pipeline." width="400">
+</p>
+<p align="center">
+  <img src="images/editing.png" alt="Editing methods." width="400">
+</p>
