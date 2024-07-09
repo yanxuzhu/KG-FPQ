@@ -15,8 +15,8 @@ Recent studies have demonstrated that large language models (LLMs) are susceptib
 ## Construction Pipeline
 We propose an automated and scalable pipeline combining KGs and GPTs for constructing FPQ datasets, by editing true triplets into false triplets and utilizing GPTs to generate FPQs.
 <p align="center">
-  <img src="images/data constructing.png" alt="Construction Pipeline." width="600">
+  <img src="images/data constructing.png" alt="Construction Pipeline." width="800">
 </p>
 <p align="center">
-  <img src="images/editing.png" alt="Editing methods." width="600">
+  <img src="images/editing.png" alt="Editing methods." width="800">
 </p>
