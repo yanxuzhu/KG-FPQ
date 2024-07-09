@@ -22,6 +22,7 @@ We propose an automated and scalable pipeline combining KGs and GPTs for constru
 </p>
 
 ## Citation
+```bibtex
 @article{zhu2024kgfpqevaluatingfactualityhallucination,
       title={KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions}, 
       author={Yanxu Zhu and Jinlin Xiao and Yuhang Wang and Jitao Sang},
