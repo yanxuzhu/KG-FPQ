@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="arXiv">
   </a>
 </p>
+This work is accepted by COLING 2025 as a main long paper.
 The KG-FPQ benchmark is released, and the code is coming soon.
 
 ## Motivation
